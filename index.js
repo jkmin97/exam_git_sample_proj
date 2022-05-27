@@ -1,3 +1,6 @@
+// 작성자: 정경민
+// 이메일: jkminoon@naver.com
+// write day : 2022-05-27
 const http = require('http');
 const express = require('express');
 const app = express();
